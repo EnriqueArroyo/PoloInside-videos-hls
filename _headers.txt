@@ -1,0 +1,5 @@
+/poloinside-light.m3u8
+  Content-Type: application/vnd.apple.mpegurl
+
+/poloinside-light*.ts
+  Content-Type: video/mp2t
